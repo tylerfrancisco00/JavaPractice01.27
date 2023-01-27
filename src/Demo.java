@@ -36,6 +36,7 @@ public abstract class Demo
             {
                 System.out.println("Please enter a number greater than zero.");
                 keyboard.nextLine();
+                wheels = 0;
             }
         }       
         while (wheels == 0);  
