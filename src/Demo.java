@@ -1,9 +1,18 @@
 import java.util.Scanner;
-package src;
+
 
 public abstract class Demo 
 {
 
+    abstract void driving();
+    abstract void riding();
+
+    public static void main(String args[])
+    {
+        
+
+
+    }
 
 
 
